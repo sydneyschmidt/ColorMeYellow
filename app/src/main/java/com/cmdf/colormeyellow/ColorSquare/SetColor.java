@@ -26,5 +26,7 @@ public class SetColor {
     public void makeYellow() {
         this.yellow = new Color(255,255,0);
     }
+
+
 }
 

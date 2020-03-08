@@ -13,4 +13,9 @@ public class Color {
         this.blue = b;
     }
 
+    public String toString() {
+        String name = "(" + red + " ," + green + " ," + blue + ")";
+        return name;
+    }
+
 }

@@ -1,7 +1,7 @@
 package com.cmdf.colormeyellow.ColorSquare;
 
 public class ColorSquare {
-    Color color;
+    public Color color;
     int score;
     SetColor setColor;
 
@@ -22,13 +22,13 @@ public class ColorSquare {
     // MODIFIES: this
     // EFFECTS: sets mood color based on ui score
     public void setColor (int score) {
-        if (score >= 5) {
+        if (score == 1) {
             color = setColor.navy;
-        } else if (score >= 10) {
+        } else if (score == 2) {
             color = setColor.lightBlue;
-        } else if (score >= 15) {
+        } else if (score == 3) {
             color = setColor.green;
-        } else if (score >= 20) {
+        } else if (score == 4) {
             color = setColor.lightGreen;
         } else {
             color = setColor.yellow;
