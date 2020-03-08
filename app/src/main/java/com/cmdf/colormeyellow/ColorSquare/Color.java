@@ -2,6 +2,7 @@ package com.cmdf.colormeyellow.ColorSquare;
 
 // Represents a colour with red, green, and blue component (range [0,225]
 public class Color {
+    //public static final int RED = new Color(246,10,10);
     int red;
     int green;
     int blue;
