@@ -61,27 +61,27 @@ public class MainActivity extends AppCompatActivity {
         switch(view.getId()) {
             case R.id.c1:
                 if (checked)
-                    cs.setColor(1);
+                    //cs.setColor(1);
                     switchToMap();
                 break;
             case R.id.c2:
                 if (checked)
-                    cs.setColor(2);
+                    //cs.setColor(2);
                     switchToMap();
                 break;
             case R.id.c3:
                 if (checked)
-                    cs.setColor(3);
+                    //cs.setColor(3);
                     switchToMap();
                 break;
             case R.id.c4:
                 if (checked)
-                    cs.setColor(4);
+                    //cs.setColor(4);
                     switchToMap();
                 break;
             case R.id.c5:
                 if (checked)
-                    cs.setColor(5);
+                    //cs.setColor(5);
                     switchToMap();
                 break;
         }
