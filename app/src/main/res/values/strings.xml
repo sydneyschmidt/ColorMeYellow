@@ -1,14 +1,6 @@
 <resources>
-    <string name="app_name">cmdf_APP</string>
+    <string name="app_name">ColorMeYellow</string>
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
-    <string name="color_me">Color Me!</string>
-    <string name="color_metitle">Color Me</string>
-    <string name="let_s_go">Let\'s Go!</string>
-    <string name="yellow">YELLOW</string>
-    <string name="name">Name:</string>
-    <string name="age">Age:</string>
-    <string name="gender">Gender:</string>
-    <string name="todo">TODO</string>
 </resources>
