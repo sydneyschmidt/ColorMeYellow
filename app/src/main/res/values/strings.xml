@@ -11,4 +11,8 @@
     <string name="age">Age:</string>
     <string name="gender">Gender:</string>
     <string name="todo">TODO</string>
+    <string name="_1_bad">1:Bad</string>
+    <string name="_5_excellent">5:Excellent</string>
+    <string name="let_s_find_out_what_colour_you_are_today">Let\'s Find Out What Colour You Are Today</string>
+    <string name="q1_how_are_you_feeling">Q1: How are you feeling?</string>
 </resources>
